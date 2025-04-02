@@ -3,15 +3,17 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hola+soy+Santiago+👋&font=VT323&size=30)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hola+soy+Santiago+👋&font=VT323&size=40)](https://git.io/typing-svg)
 
 Hola! 👋🏻 me llamo Santiago Hernández, estudiante colombiano de Ingeniería Eléctrica en la Universidad Nacional de Colombia y aprendiz de Python.
 
-- 🔭 Actualmente me encuentro aprendiendo programación
-- 🌱 En mis espacios libre me gusta leer y aprender algo nuevo
-- 🤔 Busco nuevas formas de expandir mis conocimientos actuales
-- 💬 Me gusta ayudar siempre que se necesite
-- 📫 Correo de contacto: santiago.hernandezm@gmail.com
+<h1>Acerca de mí</h1>
+
+- 🔭 Actualmente me encuentro aprendiendo programación.
+- 🌱 En mis espacios libre me gusta leer y aprender algo nuevo.
+- 🤔 Busco nuevas formas de expandir mis conocimientos actuales.
+- 💬 Me gusta ayudar siempre que se necesite.
+- 📫 Correo de contacto: santiago.hernandezm@gmail.com.
 
   ## Lenguajes Manejados
 <p align="left">
